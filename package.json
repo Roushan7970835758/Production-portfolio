@@ -4,6 +4,6 @@
     "react-reveal": "^1.2.2"
   },
   "scripts": {
-  "start": "react-scripts start" // For React projects
+  "start": "react-scripts start" 
 }
 }
